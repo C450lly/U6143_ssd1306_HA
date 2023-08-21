@@ -23,7 +23,7 @@ extern int i2cd;
 /************************Turn off the IP display. Can customize the display****************/
 #define IP_DISPLAY_OPEN     0
 #define IP_DISPLAY_CLOSE    1
-#define IP_SWITCH       IP_DISPLAY_CLOSED
+#define IP_SWITCH       IP_DISPLAY_CLOSE
 #define CUSTOM_DISPLAY   "Home Assistant"
 /************************Turn off the IP display. Can customize the display****************/
 
